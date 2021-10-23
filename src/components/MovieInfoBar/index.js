@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 // Helpers
 import {calcTime, convertMoney} from '../../helpers';

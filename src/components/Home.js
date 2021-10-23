@@ -2,7 +2,7 @@
 import React from "react";
 
 // Config
-import {POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL, API_KEY} from '../config';
+import {POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL} from '../config';
 
 // Components
 import HeroImage from '../components/HeroImage'
