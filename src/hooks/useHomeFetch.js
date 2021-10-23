@@ -1,5 +1,5 @@
 // All custom hooks should start with use
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 
 //API
 import API from '../API';
